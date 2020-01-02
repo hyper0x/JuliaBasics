@@ -20,9 +20,9 @@
 
 如果你觉得这本书还不错，请多多支持并帮忙点击本页面右上角的`Star`按钮。
 
-当然，我本人也希望能够得到资金上的支持，因为我现在依然待业在家。至于具体原因请见[这篇文章](https://mp.weixin.qq.com/s?__biz=MzI3MDQzMzQ4MQ==&mid=2247483656&idx=1&sn=87a150fbdeb372af7a8df175775d6b71&chksm=ead06caedda7e5b80b68dce6f11f53e94a28700f21a70b0e2468f98f8b3bf7c2669ac116d829)。
+当然，我本人也希望能够得到资金上的支持，因为我现在依然在家待业。至于具体原因请见[这篇文章](https://mp.weixin.qq.com/s?__biz=MzI3MDQzMzQ4MQ==&mid=2247483656&idx=1&sn=87a150fbdeb372af7a8df175775d6b71&chksm=ead06caedda7e5b80b68dce6f11f53e94a28700f21a70b0e2468f98f8b3bf7c2669ac116d829)。
 
-如果你想要为我捐款，可以扫描我的支付宝收款码。二维码图片如下。
+如果你想要资助本项目，可以扫描我个人的支付宝收款码。二维码图片如下。
 
 <img width="320px" height="480px" src="Alipay_qrcode.jpg"/>
 
